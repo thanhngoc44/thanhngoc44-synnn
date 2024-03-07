@@ -1,0 +1,22 @@
+{
+  "name": "thanhngoc44-synnn",
+  "version": "1.0.44",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhngoc44/thanhngoc44-synnn.git"
+  },
+  "keywords": [
+    "cacl"
+  ],
+  "author": "manhcuongsev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhngoc44/thanhngoc44-synnn/issues"
+  },
+  "homepage": "https://github.com/thanhngoc44/thanhngoc44-synnn#readme"
+}
