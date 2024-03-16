@@ -1,6 +1,6 @@
 {
   "name": "thanhngoc44-synnn",
-  "version": "1.0.44",
+  "version": "1.0.45",
   "description": "Test",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "cacl"
   ],
   "author": "thanhngoc44",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/thanhngoc44/thanhngoc44-synnn/issues"
   },
